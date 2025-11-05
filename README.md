@@ -74,10 +74,4 @@ Helps recruiters make faster, unbiased & data-driven hiring decisions.
 
 ---
 
-## ▶️ How to Run
 
-```bash
-git clone https://github.com/yourusername/resume-screener.git
-cd resume-screener
-pip install -r requirements.txt
-python app.py
